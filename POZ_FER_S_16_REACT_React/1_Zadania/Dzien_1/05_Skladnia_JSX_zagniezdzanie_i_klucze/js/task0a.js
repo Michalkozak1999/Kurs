@@ -4,7 +4,22 @@ import People from "./data/people";
 
 
 
+// ReactDOM.render(
+//   <>{People.map(el =><div key={}>{el.name} {el.surname}</div> )}</>,
+//       document.getElementById("app")
+// );
+
+
 ReactDOM.render(
-  <>{People.map(el =><div key={}>{el.name} {el.surname}</div> )}</>,
-      document.getElementById("app")
+<>  
+{People.map((xd, index )=> <div key = {index}>{xd.name} {xd.surname}</div>)}
+</>,
+
+document.getElementById("app")
+
+
+
+
+
+
 );
