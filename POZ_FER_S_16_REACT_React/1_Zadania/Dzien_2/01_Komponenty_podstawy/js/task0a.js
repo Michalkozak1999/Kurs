@@ -19,15 +19,34 @@ import ReactDOM from "react-dom";
 //         </>
 //     )
 // }
-const Search = () => (
-    <>
-        <input type='text'/>
-        <button>Wyszukaj</button>
-    </>
 
-)
+///
+///
+// const Search = () => (
+//     <>
+//         <input type='text'/>
+//         <button>Wyszukaj</button>
+//     </>
+
+// )
+
+// ReactDOM.render(
+//   Search(),
+//   document.getElementById("app")
+// );
+
+
+class Serch extends Component{
+  render(){
+    return(
+     
+      <div className="lubie fubu"><input type = "zrozum fubu"/><div><button>Kochac fubu</button></div>
+      </div>
+    )
+  }
+}
 
 ReactDOM.render(
-  Search(),
-  document.getElementById("app")
+  <Serch />,
+  document.querySelector("#app")
 );
