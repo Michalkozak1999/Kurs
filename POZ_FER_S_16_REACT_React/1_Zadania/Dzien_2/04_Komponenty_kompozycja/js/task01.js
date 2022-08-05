@@ -18,24 +18,55 @@ const item =
                 "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Typing_computer_screen_reflection.jpg/640px-Typing_computer_screen_reflection.jpg"
         }
     ]
-function ShopItemHeader(props) {
-    return(
-        item.map(function (el) {
-           return <><h1>{el.title}</h1><img src={el.image}/></>
+// function ShopItemHeader(props) {
+//     return(
+//         item.map(function (el) {
+//            return <><h1>{el.title}</h1><img src={el.image}/></>
+//         })
+//     )
+// }
+// class ShopList extends Component{
+//     render(props){
+//         return(
+//             <div className='shoplist' title={item.title} image={item.image}>
+//                 <ShopItemHeader/>
+//             </div>
+//         )
+//     }
+// }
+
+// ReactDOM.render(
+//   <ShopList/>,
+//   document.getElementById("app")
+// );
+
+
+function Heder(props) {
+    return (
+        item.map(function (cd) {
+            return (
+              <div><h1>{cd.title}</h1> <img  src ={cd.image}/></div>
+            )
+        
+            
         })
+       
     )
+    
 }
-class ShopList extends Component{
+
+
+class Shoplist extends Component{
     render(props){
         return(
-            <div className='shoplist' title={item.title} image={item.image}>
-                <ShopItemHeader/>
+            <div className = "shoplist" title = {item.title} image = {item.image} >
+                <Heder/>
             </div>
         )
     }
 }
 
 ReactDOM.render(
-  <ShopList/>,
-  document.getElementById("app")
-);
+    <Shoplist/>,
+    document.querySelector("#app")
+)
