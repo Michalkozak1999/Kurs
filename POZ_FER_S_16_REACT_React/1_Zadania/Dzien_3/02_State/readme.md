@@ -78,7 +78,7 @@ Stwórz komponent `StrobeLight`. Przyjmuje on przez props dwie wartości: kolor 
 
 Komponent ma wyrenderować pusty element `div` z następującymi stylami:
 
-- Szerokość: `500px`,
+- Szerokość: `500px`, 
 - Wysokość: `50px`,
 - Kolor tła: `white`.
 
