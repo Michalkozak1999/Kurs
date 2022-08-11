@@ -1,27 +1,40 @@
 import React, {Component} from "react";
 import ReactDOM from "react-dom";
 
-const Loguj = () => {
-    let first = prompt('x');
-    let second = prompt('y');
-    first=parseFloat(first);
-    second=parseFloat(second);
-    console.log(Math.pow(first,second))
-}
-const operacjaWindow = () => {
-    console.log(window.innerWidth, window.innerHeight);
-}
-const Buttons = () => {
+
+
+class Buttons extends Component {
+    buttonsklick (){
+        console.log("fubu")
+    }
+    przycisk_1 (){
+        console.log("pierwszy przycisk klikniety")
+    }
+    przycisk_2 (){
+       let promptX = prompt("podaj liczbe 1 wariacie")
+       let promptY = prompt("podaj 2 liczbe wariacie")
+       promptX = parseFloat(promptX);
+       promptY = parseFloat(promptY);
+       let XD = promptX*promptY 
+       console.log(XD)
+    }
+    przycisk_3 (){
+        console.log(window.innerWidth, window.innerHeight)
+    }
+render(){
     return(
-        <>
-        <button onClick={()=>{console.log('Pierwszy')}}>Click</button>
-        <button onClick={Loguj}>Click</button>
-         <button onClick={operacjaWindow}>Click</button>
-    </>
-            )
+        <section>
+            <button onClick={this.przycisk_1}>1 przycisk</button>
+            <button onClick={this.przycisk_2}>2 przycisk </button>
+            <button onClick={this.przycisk_3}>3 przycisk</button>
+
+
+        </section>
+    )
+}
 }
 
-const App = ()=><Buttons/>
-
-
-ReactDOM.render(<App/>, document.getElementById("app"));
+ReactDOM.render(
+    <Buttons/>,
+    document.querySelector("#app")
+)
