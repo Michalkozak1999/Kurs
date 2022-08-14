@@ -11,42 +11,44 @@ import ReactDOM from "react-dom";
 //         )
 //     }
 // }
-// function Search(){
-//     return (
-//         <>
-//             <input type='text'/>
-//             <button></button>
-//         </>
+//
+
+// class Serch extends Component{
+//   render(){
+//     return(
+     
+//       <div className="lubie fubu"><input type = "zrozum fubu"/><div><button>Kochac fubu</button></div>
+//       </div>
 //     )
+//   }
 // }
 
-///
-///
-// const Search = () => (
-//     <>
-//         <input type='text'/>
-//         <button>Wyszukaj</button>
-//     </>
-
-// )
-
 // ReactDOM.render(
-//   Search(),
-//   document.getElementById("app")
+//   <Serch />,
+//   document.querySelector("#app")
 // );
 
 
-class Serch extends Component{
-  render(){
-    return(
-     
-      <div className="lubie fubu"><input type = "zrozum fubu"/><div><button>Kochac fubu</button></div>
-      </div>
-    )
+function Search(){
+      return (
+          <>
+              <input type='text'/>
+              <button>i tak on działa </button>
+          </>
+      )
   }
-}
+  
+  
+  const Search = () => (
+      <>
+          <input type='text'/>
+          <button>Wyszukaj</button>
+      </>
+  
+  )
 
-ReactDOM.render(
-  <Serch />,
-  document.querySelector("#app")
-);
+  ReactDOM.render(
+    Search(),
+    document.getElementById("app")
+  );
+  
