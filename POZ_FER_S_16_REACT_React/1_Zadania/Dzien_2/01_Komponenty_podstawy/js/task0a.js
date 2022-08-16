@@ -1,32 +1,32 @@
 import React, {Component} from "react";
 import ReactDOM from "react-dom";
 
-// class Search extends Component{
-//     render(){
-//         return (
-//             <>
-//                 <input type='text'></input>
-//                 <button></button>
-//             </>
-//         )
-//     }
-// }
-//
+class Search extends Component{
+    render(){
+        return (
+            <>
+                <input type='text'></input>
+                <button></button>
+            </>
+        )
+    }
+}
 
-// class Serch extends Component{
-//   render(){
-//     return(
+
+class Serch extends Component{
+  render(){
+    return(
      
-//       <div className="lubie fubu"><input type = "zrozum fubu"/><div><button>Kochac fubu</button></div>
-//       </div>
-//     )
-//   }
-// }
+      <div className="lubie fubu"><input type = "zrozum fubu"/><div><button>Kochac fubu</button></div>
+      </div>
+    )
+  }
+}
 
-// ReactDOM.render(
-//   <Serch />,
-//   document.querySelector("#app")
-// );
+ReactDOM.render(
+  <Serch />,
+  document.querySelector("#app")
+);
 
 
 function Search(){
