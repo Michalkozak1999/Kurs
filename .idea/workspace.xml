@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/scss/main.scss" line="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c6c5d07-abb4-40e5-b1db-6bd9fcb28af7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/3_Arrow_functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/3_Arrow_functions/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/6_Template_strings/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/6_Template_strings/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/0_Gulp/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/0_Gulp/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/1_Sass_Instalacja/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/1_Sass_Instalacja/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/1_Sass_Instalacja/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/2_Sass_Podstawy/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/2_Sass_Podstawy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/3_Sass_Zagnieżdżanie/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/3_Sass_Zagnieżdżanie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/3_Sass_Zagnieżdżanie/scss/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/elements/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/elements/_content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/elements/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/elements/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/generic/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/settings/_all.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/settings/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/5_Sass_Mixiny/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/5_Sass_Mixiny/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/7_Sass_Listy_Mapy/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/7_Sass_Listy_Mapy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/5_RWD_Mobile_first/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/5_RWD_Mobile_first/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/scss/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/9_RWD_JavaScript/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/9_RWD_JavaScript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/4_Warsztaty/css/warszaty.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/4_Warsztaty/warszaty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_2/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_2/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_3/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_3/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_3/scss/partials/_zadanie06.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_Egzamin_3/scss/partials/_zadanie06.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/zadanie06.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/zadanie06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/js/task01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/js/task01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task02.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task03.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task04.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task05.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task0a.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task0a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task02.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task0a.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task0a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task01.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task02.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task0a.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task0a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/1_Wyszukiwanie_elementow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/1_Wyszukiwanie_elementow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/1_Wyszukiwanie_elementow/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/1_Wyszukiwanie_elementow/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/2_Eventy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/2_Eventy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/2_Eventy/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/2_Eventy/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/3_Modyfikowanie_elementow_DOM/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/3_Modyfikowanie_elementow_DOM/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/3_Modyfikowanie_elementow_DOM/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/3_Modyfikowanie_elementow_DOM/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/4_Eventy_zaawansowane/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/4_Eventy_zaawansowane/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/1_Wczytywanie_danych/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/1_Wczytywanie_danych/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/3_Wczytywanie_danych_holidays/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/3_Wczytywanie_danych_holidays/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/0_Gulp/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/0_Gulp/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/1_Sass_Instalacja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/1_Sass_Instalacja/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/2_Sass_Podstawy/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/2_Sass_Podstawy/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/4_Sass_Partials/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/5_Sass_Mixiny/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/5_Sass_Mixiny/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/6_Sass_Dziedziczenie/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/7_Sass_Listy_Mapy/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/7_Sass_Listy_Mapy/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/2_Sass_Funkcje/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/5_RWD_Mobile_first/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/5_RWD_Mobile_first/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/7_RWD_Grid/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/8_RWD_Flexbox/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/9_RWD_JavaScript/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_3/9_RWD_JavaScript/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Podstawy_programowania/1_Zadania/5_Funkcje/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Podstawy_programowania/1_Zadania/5_Funkcje/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/01_CSS_kaskadowe_arkusze_stylow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/02_Kolory_i_jednostki/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/02_Kolory_i_jednostki/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/02_Kolory_i_jednostki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/02_Kolory_i_jednostki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie1.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie2.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie3.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/03_Selektory/css/zadanie3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/04_Stylowanie_tekstu/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/04_Stylowanie_tekstu/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/04_Stylowanie_tekstu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/04_Stylowanie_tekstu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/05_Kolor_i_tlo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/05_Kolor_i_tlo/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/05_Kolor_i_tlo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_1/05_Kolor_i_tlo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/plan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/06_Box_Sizing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/css/navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/css/navigation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/07_Pseudoklasy_i_pseudoelementy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/card.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/dropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/dropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/dropdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/dropdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/08_Pozycjonowanie_elementow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/notification.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/notification.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/notification.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_2/09_Flexbox/notification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/1_Zadania/Dzien_3/11_Tworzenie_ukladu_strony/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/3_Zadania_domowe/Dzien_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/3_Zadania_domowe/Dzien_1/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/3_Zadania_domowe/Dzien_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 1`/POZ_FER_S_16_Zaawansowany_HTML_CSS/3_Zadania_domowe/Dzien_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/1_this/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/1_this/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie04.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie05.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie06.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie07.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie08.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie09.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie02.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie03.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie04.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie05.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie06.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie06.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie07.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie07.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie08.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie08.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca2.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanie02.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanie02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanie03.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanie03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanieWykladowca.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanieWykladowca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie04.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie05.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie01.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie02.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie03.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie04.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie05.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanie05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanieWykladowca.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/zadanieWykladowca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie01.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanieWykladowca.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanieWykladowca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/3_GalleryWithFilter/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/3_GalleryWithFilter/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/js/planets.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_1/js/planets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_2/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_2/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_2/js/searchDom.js" beforeDir="false" afterPath="$PROJECT_DIR$/modul 2`/POZ_FER_S_16_JavaScript/3_Zadania_domowe/Dzien_2/js/searchDom.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5059733">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/index.html">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/readme.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SECOND">
+                  <first_editor />
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/webpack.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task0a.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="7" column="67" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="67" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task01.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task02.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/data/people.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="15" selection-start-column="15" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ban</find>
+      <find>sample_class_2</find>
+      <find>css</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/1_Sass_Logika</dir>
+      <dir>$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/4_RWD_Media_Queries</dir>
+      <dir>$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/package.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/zadanie03.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/3_Modyfikowanie_elementow_DOM/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_1/4_Eventy_zaawansowane/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/1_Wczytywanie_danych/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/index.html" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/2_Galeria/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/3_Wczytywanie_danych_holidays/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/package.json" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/js/out.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/readme.md" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/index.html" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/zadanie01.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/zadanie04.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/2_let_const/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/index.html" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/zadanie06.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/package.json" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator/js/zadanie03.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/6_Template_strings/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring/js/app.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie1.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie2.html" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie2.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie3.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie4.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie5.html" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie5.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/.babelrc" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/package.json" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/js/task01.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task0a.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task01.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task02.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task03.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task05.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task04.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task0a.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task01.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task02.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task01.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task0a.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/webpack.config.js" />
+        <option value="$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task02.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="212" />
+    <option name="y" value="27" />
+    <option name="width" value="1657" />
+    <option name="height" value="999" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_1" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Skladnia_JSX_zagniezdzanie_i_klucze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_1" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Skladnia_JSX_zagniezdzanie_i_klucze" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kurs" type="462c0819:PsiDirectoryNode" />
+              <item name="POZ_FER_S_16_REACT_React" type="462c0819:PsiDirectoryNode" />
+              <item name="1_Zadania" type="462c0819:PsiDirectoryNode" />
+              <item name="Dzien_1" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Skladnia_JSX_zagniezdzanie_i_klucze" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/6_Template_strings" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/6_Template_strings" />
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/7_Destructuring" />
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/5_Rest_spread_operator" />
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes" />
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/3_Arrow_functions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_1/0_Gulp/app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kurs/POZ_FER_S_16_RWD_SASS/1_Zadania/Dzien_2/3_RWD_Jednostki_w_RWD/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_1/1_Array_operations/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6c5d07-abb4-40e5-b1db-6bd9fcb28af7" name="Default Changelist" comment="" />
+      <created>1563295583248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563295583248</updated>
+      <workItem from="1563295584359" duration="724000" />
+      <workItem from="1563347617352" duration="21907000" />
+      <workItem from="1563433764529" duration="90000" />
+      <workItem from="1563434161775" duration="10333000" />
+      <workItem from="1563445480770" duration="5000" />
+      <workItem from="1563445503761" duration="11325000" />
+      <workItem from="1563520122097" duration="26697000" />
+      <workItem from="1563618456847" duration="3318000" />
+      <workItem from="1563709749022" duration="990000" />
+      <workItem from="1563710932782" duration="1828000" />
+      <workItem from="1563778800709" duration="2519000" />
+      <workItem from="1563793869922" duration="646000" />
+      <workItem from="1563796990684" duration="235000" />
+      <workItem from="1563807510901" duration="433000" />
+      <workItem from="1563866480004" duration="1668000" />
+      <workItem from="1563868546524" duration="9624000" />
+      <workItem from="1563884785180" duration="7595000" />
+      <workItem from="1563897982630" duration="411000" />
+      <workItem from="1563952023558" duration="16945000" />
+      <workItem from="1564039129016" duration="15516000" />
+      <workItem from="1564125176786" duration="8055000" />
+      <workItem from="1564990073072" duration="22370000" />
+      <workItem from="1565075572441" duration="11229000" />
+      <workItem from="1565161865638" duration="15414000" />
+      <workItem from="1565250125346" duration="15573000" />
+      <workItem from="1565334809537" duration="9361000" />
+      <workItem from="1565595031572" duration="2384000" />
+      <workItem from="1566199128754" duration="17745000" />
+      <workItem from="1566285700125" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="234985000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22240438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4989071" visible="true" weight="0.21166307" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010929" side_tool="true" weight="0.21166307" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22240438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989071" visible="true" weight="0.21166307" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010929" side_tool="true" weight="0.21166307" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_jQuery/1_Zadania/Dzien_2/1_Wczytywanie_danych/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/out.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-926">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/zadanie06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_2/4_Classes/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_ES6/1_Zadania/Dzien_3_warsztat/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/zadanie5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/js/zadanie5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_Egzamin_4/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/2_Snippety/01_Konfiguracja_srodowiska/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/01_Konfiguracja_srodowiska/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/01_Konfiguracja_srodowiska/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/01_Konfiguracja_srodowiska/js/task0a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/02_Pierwsza_aplikacja/js/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#2#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task0a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/data/person.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/task04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/03_Skladnia_JSX_wyrazenia/js/data/animals.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task0a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/04_Skladnia_JSX_atrybuty/js/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/data/person.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task0a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="79" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/data/people.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POZ_FER_S_16_REACT_React/1_Zadania/Dzien_1/05_Skladnia_JSX_zagniezdzanie_i_klucze/js/task02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
